@@ -1,0 +1,678 @@
+.homepage {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header begins */
+
+header {
+    height: 70px;
+    border-bottom: 1px solid gray;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    margin-top: -18px;
+    border-top: 10px solid white;
+    margin-left: -10px;
+}
+
+#header {
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.active img {
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.active nav {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+#enroll {
+    border: 1px solid green;
+    text-align: center;
+    border-width: 11px;
+    /* margin-right: 570px; */
+    /* margin-left: 950px; */
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 0px;
+    font-size: larger;
+    text-decoration: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#enroll a {
+    color: white;
+    text-decoration: none;
+}
+
+/* header ends */
+
+
+/* start of first page */
+
+.Firstpage {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    line-height: 70px;
+}
+
+.Firstpage span {
+    border: 1px solid green;
+    /* text-align: center; */
+    border-width: 4px;
+    margin-right: 400px;
+    font-size: larger;
+    margin-left: 400px;
+    background-color: green;
+    /* line-height: 10px; */
+    color: white;
+    border-radius: 40px;
+    /* width: 500px; */
+    padding: 10px 45px;
+}
+
+.Firstpage div {
+    text-align: center;
+    color: grey;
+    font-size: larger;
+    font-size: large;
+    line-height: 30px;
+    font-weight: lighter;
+}
+
+/* .welcome {
+    font-weight: 50px;
+} */
+
+.structured {
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    line-height: 25px;
+}
+
+.enroll {
+    border: 1px solid green;
+    text-align: center;
+    border-width: 11px;
+    margin-right: 570px;
+    margin-left: 570px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 0px;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.enroll a {
+    color: white;
+    text-decoration: none;
+}
+
+.enrol a {
+    text-decoration: none;
+    color: white;
+}
+
+/* end of first page */
+
+
+
+/* cover picture */
+#coverPicture {
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+
+
+/* start of success page */
+
+.produced {
+    padding: 30px 40px ;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-image: url(./mintgraan.jpg);
+    height: 500px;
+    width: 1255px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 10px;
+}
+
+#produce {
+    padding-right: 50px;
+    font-size: large;
+    line-height: 28px;
+    margin-top: 10px;
+    margin-right: 60px;
+}
+
+.produced h1 {
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: bold;
+}
+
+.produced div {
+    margin-top: 5px;
+}
+
+.produced span {
+    color: green;
+}
+
+/* end of success page */
+
+
+
+/* doubleg begins */
+
+.secondpage {
+    text-align: center;
+    font-weight: bolder;
+    line-height: 25px;
+}
+
+#doubleg {
+    text-align: center;
+    font-size: 25px;
+}    
+
+.doublegd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}    
+
+.doublegd p {
+    font-size: xx-large;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+}    
+
+#withour {
+    margin: 10px 250px;
+    color: black;
+    font-weight: bold;
+}
+
+#youget {
+    color: grey;
+    margin: 10px 300px;
+}
+
+/* end of doubleg */
+
+
+/* Gateway begins */
+
+.gateway {
+    display: flex;
+    line-height: 30px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 100px;
+    align-items: ;
+    /* padding: 20px;
+    padding-bottom: 10px; */
+
+}
+
+.gateway div {
+    border: 10x solid white;
+    border-radius: 40px;
+    background-color: rgba(128, 128, 128, 0.125);
+    padding: 10px 30px;
+    width: 480px;
+}
+
+.gw {
+    margin: 0px 8px;
+}
+
+
+/* gateway 1 begins */
+
+.gateway1 h3 {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+    border-width: 3px;
+    margin-right: 360px;
+    text-align: center;
+}
+
+.gateway h2 {
+    color: green;
+    text-transform: capitalize;
+}
+
+.gateway p {
+    color: grey;
+}
+
+.gateway img {
+    border: 0.5px solid white;
+    border-radius: 20px;
+}
+
+/* gateway 1 ends */
+
+/* gateway 2 begins */
+
+
+.gateway2 h3 {
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+    border-width: 3px;
+    margin-right: 360px;
+    text-align: center;
+}
+
+
+.gateway2 h2 {
+    color: black;
+    text-transform: capitalize;
+}
+
+.gateway2 p {
+    color: grey;
+}
+
+.gateway2 img {
+    border: 0.5px solid white;
+    border-radius: 20px;
+}
+
+/* gateway 2 ends  */
+
+/* gateway ends :)*/
+
+
+
+/* Training Starts */
+
+
+.OTP {
+    text-align: center;
+}
+
+.OTP h1 {
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+.OTP p {
+    color: grey;
+    font-weight: lighter;
+    font-size: large;
+}
+
+/* full stack engineering */
+
+.Train {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 140px;
+}
+
+.name {
+    background-image: url(./FSSE.jpeg);
+    color: white;
+    width: 480px;
+    height: 150px;
+    padding-top: 15px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#online li  {
+    list-style-image: url(./tk\ 1.jpg);
+}
+
+.Training {
+    border: 1px solid grey;
+    background-color: white;
+    border-radius: 10px;
+    background-color: white;
+    width: 500px;
+    padding-top: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.tr {
+    padding: 20px;
+}
+
+.start {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.start span {
+    color: green;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.tr span {
+    color: grey;
+    font-weight: lighter;
+}
+
+.tr ul {
+    color: grey;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.enrol {
+    border: 1px solid green;
+    text-align: center;
+    border-width: 12px;
+    /* margin-right: 300Px; */
+    margin-left: 110Px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 0px;
+    font-size: medium;
+    width: 200px;
+    border-width: 15px;
+}
+
+/* training ends */
+
+
+
+/* why choose us starts */
+
+.whychooseus h1 {
+    text-align: center;
+}
+
+.why {
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    margin: 15px;
+    font-size: large;
+    line-height: 25px;
+}
+
+.why div {
+    border: 0.5px solid rgba(128, 128, 128, 0.125);
+    margin: 15px;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: rgba(128, 128, 128, 0.125);
+    width: 350px;
+    height: 300px;
+}
+
+.why h2 {
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+/* why coose us ends */
+
+
+/* meet our team begins*/
+
+.team {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.team div {
+    text-align: center;
+    font-size: larger;
+    image-resolution: 70px;
+}
+
+.team div p {
+    color: green;
+}
+
+.team img {
+    border-radius: 200px;
+}
+
+
+/* #why {
+    text-align: center;
+} */
+
+/* meet our team ends */
+
+
+/* alumni begins */
+
+.alumnibegins {
+    font-size: 35px; 
+    text-align: center;
+}
+
+.alumnistarts {
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    margin: 50px 120px;
+    font-size: large;
+    /* line-height: 25px; */
+}
+
+.alumnistarts div {
+    border: 2px solid gainsboro;
+    margin: 0px 10px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-image: url(./white.png);
+    width: 280px;    
+    height: 420px;
+    border-top: none;
+}
+
+.about {
+    text-align: center;
+    color: gray;
+    font-size: 19px;
+}
+
+.alumni {
+    text-align: center;
+    color: gray;
+    font-size: 15px;
+}
+
+.alumnistarts img {
+    border: 4px solid gray;
+    border-radius: 70px;
+    margin: 10px 80px;
+    height: 100px;
+}
+
+.alumnistarts h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+/* alumni ends */
+
+
+/* graduates starts */
+
+.graduates h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.graduate {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+
+.graduate div {
+    border: 1px solid rgb(250, 246, 246);
+    /* border-width: 10px; */
+    height: 70px;
+    width: 150px;
+}
+
+.graduate img {
+    width: 130px;
+    height: 40px;
+    padding: 13px 10px ;
+}
+
+/* graduates ends */
+
+
+/* our facility starts */
+
+.ourfacility h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.ourfacility div {
+    color: gray;
+    margin: 0px 100px;
+    text-align: center;
+}
+
+.table {
+    margin: 20px;
+}
+
+.table table {
+    border-spacing: 20px;
+}
+
+/* our facility ends */
+
+
+/* our partners */
+
+/* indiana tech begins */
+
+.partner h1 {
+    text-align: center;
+    font-size: 25px;
+}    
+
+.part {
+    display: flex;
+}    
+
+.indiana {
+    margin: 50px;
+}
+
+.indiana p {
+    font-size: 20px;
+    line-height: 25px;
+}    
+
+.indiana h3 {
+    color:rgba(17, 17, 118, 0.818)
+}
+
+.list li a {
+    display: block;
+    text-align: left;
+    border: 1px solid grey;
+    background-color: rgb(250, 246, 246);
+    display: block;
+    height: 20px;
+    padding: 10px 20px;
+    width: 350px;
+    list-style-type: none;
+}    
+
+.list ul {
+    list-style-type: none;
+}  
+
+.university {
+    margin-top: 170px;
+    margin-right: 70px;
+    margin-left: 40px;
+    padding-right: ;
+    width: 600px;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.partneri img {
+    margin: 40px;
+    margin-top: 150px;
+}
+
+.UNC ul {
+    list-style-type: none;
+}    
+
+.UNC li a {
+    display: block;
+    text-align: left;
+    border: 1px solid grey;
+    background-color: rgb(250, 246, 246);
+    display: block;
+    height: 20px;
+    padding: 10px 20px;
+    width: 500px;
+    list-style-type: none;
+}    
+
+/* footer */
+
+footer{
+    height: 250px;
+    background-color: rgb(2, 2, 147);
+    color: white;
+}
+
+.info {
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+}
+
+.info div {
+    margin-left: 70px;
+    margin-right: 20px;
+}
+
+#conta {
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+#cont a {
+    margin: 10px;
+}

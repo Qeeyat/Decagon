@@ -1,0 +1,893 @@
+/* header begins */
+
+header {
+    height: 60px;
+    border-bottom: 1px solid gray;
+    /* overflow: visible; */
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    margin-top: -35px;
+    border-top: 10px solid white;
+}
+
+.active img {
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.active nav {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+#enroll {
+    border: 1px solid green;
+    text-align: center;
+    border-width: 11px;
+    /* margin-right: 200px; */
+    /* margin-left: 950px; */
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 0px;
+    font-size: larger;
+    margin-right: 20px;
+    width: 150px;
+
+}
+
+#enroll a {
+    color: white;
+    text-decoration: none;
+}
+
+/* header ends */
+
+
+
+/* FSSE begins */
+
+.Full {
+    text-align: center;
+}
+
+.Full h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.Full span {
+    font-size: 40px;
+}
+
+.Full p {
+    font-size: 23px;
+    /* padding: 0px 20px; */
+    margin: 0px 100px;
+    color: rgba(99, 94, 94, 0.447);
+    font-weight: bolder;
+}
+
+.Full div {
+    border: 1px solid green;
+    text-align: center;
+    border-width: 15px;
+    margin-right: 600px;
+    margin-left: 600px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 0px;
+    font-size: larger;
+    height: 30px;
+    
+}
+
+.fullstack {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fullstack {
+    height: 500px;
+}
+
+/* why choose us */
+
+.whychooseus {
+    font-size: 25px;
+    text-align: center;
+}
+
+.whychooseus span {
+    color: green;
+}
+
+/* why choose decagon starts */
+
+.whychoosedecagon {
+    background-image: url(./mintgraan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.whychoosedec {
+    padding: 50px 10px;
+}
+
+.whychooseus h1 {
+    text-align: center;
+}
+
+.why {
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    margin: 15px;
+    font-size: large;
+    line-height: 25px;
+}
+
+.why div {
+    border: 0.5px solid white;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 30px 40px;
+    background-color: white;
+    width: 330px;
+    height: 220px;
+}
+
+.why h2 {
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+/* why coose decagon ends */
+
+
+
+/* Who is this program for? starts*/
+.program {
+    font-size: 25px;
+    text-align: center;
+}
+
+.whychoosedec {
+    padding: 50px 10px;
+}
+
+.whychooseus h1 {
+    text-align: center;
+}
+
+.prog {
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    margin: 15px;
+    font-size: large;
+    line-height: 25px;
+}
+
+.prog div {
+    border: 0.5px solid white;
+    margin: 10px;
+    border-radius: 30px;
+    padding: 30px 40px;
+    background-color: orange;
+    width: 320px;
+    height: 450px;
+    text-align: left
+}
+
+.prog h2 {
+    font-size: 25px;
+    font-weight: normal;
+    text-align: left;
+    color: white;
+}
+
+.prog {
+    color: white;
+}
+
+    
+}
+/* Who is this program for? ends */
+
+
+/* What you will learn starts*/
+.learn {
+    font-size: 25px;
+    text-align: center;
+}
+
+.learning span {
+    color: green;
+}
+
+.lea {
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    margin: 15px;
+    font-size: large;
+    line-height: 25px;
+}
+
+.lea div {
+    border: 0.5px solid rgba(128, 128, 128, 0.415);
+    margin: 10px;
+    border-radius: 30px;
+    padding: 30px 40px;
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    text-align: left
+}
+
+.lea h2 {
+    font-size: 25px;
+    font-weight: normal;
+    text-align: left;
+    font-weight: bold;
+}
+
+.lea ul {
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.lea p {
+    color: rgb(120, 114, 114);
+}
+/* What you will learn ends */
+
+/* new section starts */
+
+h6 {
+    font-size: large;
+    border: 1px solid rgb(120, 114, 114);
+    height: 130px;
+    margin: 100px 0px;
+    background-color: rgba(218, 215, 215, 0.485); ;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    font-size: medium;
+}
+
+.price1 {
+    border: 1px solid green;
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 35px;
+    border-color: rgb(42, 165, 42);
+    margin-right: 30px; 
+    margin-left: 40px; 
+    font-weight: bold;
+}
+
+
+.price1 li {
+    font-weight: bolder;
+    list-style-image: url(./liststyletype.png);]
+    text-align: left;
+}
+
+.price1 p {
+    font-size: large;
+}
+
+.price2 {
+    border: 1px solid rgb(2, 2, 30);
+    border-radius: 10px;
+    padding-top: 30px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    background-color: rgb(1, 1, 15);
+    font-size: 12px;
+}
+
+.price2 span {
+    color: rgb(225, 161, 0);
+}
+
+.price2 li {
+    list-style-image: url(./liststyle.png);
+    font-size: 15px;
+}
+
+.price h3 {
+    font-size: 17px;
+}
+
+.price2 h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.price2 p {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.price div {
+    width: 600px;
+    height: 1000px;
+}
+
+/* What is needed to participate in the program? */
+
+.participateprogram {
+    padding: 50px 10px;
+}
+
+.participate h1 {
+    text-align: center;
+    margin: 50px 330px;
+}
+
+.part {
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    margin: 15px;
+    font-size: large;
+    line-height: 25px;
+}
+
+.part div {
+    border: 0.5px solid rgba(54, 52, 52, 0.196);;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 30px 40px;
+    background-color: white;
+    width: 330px;
+    height: 320px;
+}
+
+.part h2 {
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+/*  What is needed to participate in the program? ends */
+
+
+
+/* section */
+
+section {
+    height: 300px;
+    background-image: url(./bookwallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#enro {
+    border: 1px solid green;
+    text-align: center;
+    border-width: 11px;
+    /* margin-right: 570px; */
+    /* margin-left: 950px; */
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    font-size: larger;
+}
+
+#enro a {
+    color: white;
+    text-decoration: none;
+}
+
+/* section ends */
+
+/* doubleg begins */
+
+.secondpage {
+    text-align: center;
+    font-weight: bolder;
+    line-height: 25px;
+}
+
+#doubleg {
+    text-align: center;
+}    
+
+.doublegd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}    
+
+.doublegd p {
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    /* font-weight: bold; */
+}    
+
+#withour {
+    margin: 10px 220px;
+    color: black;
+    font-size: 18px;
+}
+
+#youget {
+    color: grey;
+    margin: 10px 250px;
+    font-size: 18px;
+}
+
+/* end of doubleg */
+
+/* Gateway begins */
+
+.gateway {
+    display: flex;
+    line-height: 30px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 120px;
+    align-items: ;
+    /* padding: 20px;
+    padding-bottom: 10px; */
+
+}
+
+.gateway div {
+    border: 10x solid white;
+    border-radius: 40px;
+    background-color: rgba(128, 128, 128, 0.125);
+    padding: 10px 30px;
+    width: 480px;
+}
+
+.gw {
+    margin: 0px 8px;
+}
+
+
+/* gateway 1 begins */
+
+.gateway div {
+    height: 510px;
+    width: 450px;
+    line-height: 25px;
+}
+
+.gateway1 h3 {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+    border-width: 3px;
+    margin-right: 340px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.gateway1 img {
+    border: 0.5px solid white;
+    border-radius: 20px;
+    height: 300px;
+}
+
+.gateway h2 {
+    color: green;
+    text-transform: capitalize;
+    font-size: 25px;
+    text-align: left;
+}
+
+.gateway p {
+    color: rgb(73, 73, 73);
+    font-size: 18px;
+    text-align: left;
+}
+
+.gateway img {
+    border: 0.5px solid white;
+    border-radius: 20px;
+}
+
+/* gateway 1 ends */
+
+/* gateway 2 begins */
+
+
+.gateway2 h3 {
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+    border-width: 3px;
+    margin-right: 340px;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.gateway2 h2 {
+    color: black;
+    text-transform: capitalize;
+    font-size: 25px;
+    text-align: left;
+}
+
+.gateway2 p {
+    color: rgb(73, 73, 73);
+    font-size: 18px;
+    text-align: left;
+}
+
+.gateway2 img {
+    border: 0.5px solid white;
+    border-radius: 20px;
+}
+
+/* gateway 2 ends  */
+
+/* gateway ends :)*/
+
+/* our partners */
+
+/* indiana tech begins */
+
+.partner h1 {
+    text-align: center;
+    font-size: 55px;
+}    
+
+.partner span {
+    color: rgb(38, 201, 38);
+}
+
+.partn {
+    display: flex;
+    text-align: left;
+}    
+
+.indiana {
+    margin: 50px;
+    padding-right: 0px;
+    margin-top: 10px;
+    width: 700px;
+}
+
+.indiana p {
+    font-size: 19px;
+    line-height: 23px;
+    padding-right: 15px;
+    margin-right: 70px;
+}    
+
+.partneri1 img {
+    margin: 50px;
+    margin-top: 120px;
+    margin-left: 10px;
+}
+
+.indiana h3 {
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+
+}
+
+.list li {
+    display: block;
+    text-align: left;
+    border: 1px solid grey;
+    background-color: rgb(250, 246, 246);
+    display: block;
+    height: 20px;
+    font-size: large;
+    padding: 10px 20px;
+    width: 350px;
+    list-style-type: none;
+    margin-bottom: 5px;
+    padding-left: 20px;
+}    
+
+.list ul {
+    list-style-type: none;
+}  
+
+.university {
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-left: 50px;
+    padding-right: ;
+    width: 600px;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.university h2 {
+    font-size: 40px;
+}
+
+.university p {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.partneri2 img {
+    margin: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 700px;
+}
+
+.UNC ul {
+    list-style-type: none;
+}    
+
+.UNC li a {
+    display: block;
+    text-align: left;
+    border: 1px solid grey;
+    background-color: rgb(250, 246, 246);
+    display: block;
+    height: 20px;
+    padding: 10px 20px;
+    width: 500px;
+    list-style-type: none;
+}   
+
+/* meet our team begins*/
+
+.team {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.team div {
+    text-align: center;
+    font-size: larger;
+    image-resolution: 70px;
+}
+
+.team div p {
+    color: green;
+    font-size: large;
+}
+
+.team img {
+    border-radius: 200px;
+}
+
+.team h3 {
+    font-size: 20px;
+}
+
+
+/* #why {
+    text-align: center;
+} */
+
+/* meet our team ends */
+
+/* alumni begins */
+
+.alumnibegins {
+    font-size: 25px; 
+    text-align: center;
+}
+
+.alumnibegins span {
+    color: rgb(76, 228, 76);
+}
+
+.alumnistarts {
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    margin: 50px 120px;
+    font-size: large;
+    /* line-height: 25px; */
+}
+
+.alumnistarts div {
+    border: 2px solid gainsboro;
+    margin: 0px 10px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-image: url(./white.png);
+    width: 280px;
+    height: 420px;
+    border-top: none;
+
+}
+
+.about {
+    text-align: center;
+    color: gray;
+    font-size: 19px;
+}
+
+.alumni {
+    text-align: center;
+    color: gray;
+    font-size: 15px;
+}
+
+.alumnistarts img {
+    border: 4px solid gray;
+    border-radius: 90px;
+    margin: 10px 80px;
+}
+
+.alumnistarts h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+/* alumni ends */
+
+/* graduates starts */
+
+.graduates h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.graduates span {
+    color: rgb(60, 198, 60);
+}
+
+.graduate {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+
+.graduate div {
+    border: 1px solid rgb(228, 215, 215);
+    border-radius: 5px;
+    /* border-width: 10px; */
+    height: 70px;
+    width: 150px;
+
+}
+
+.graduate img {
+    width: 130px;
+    height: 40px;
+    padding: 13px 10px ;
+}
+
+/* graduates ends */
+
+
+/* our facility starts */
+
+.ourfacility h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.ourfacility p {
+    color: rgb(79, 76, 76);
+    margin: 0px 100px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.table {
+    margin: 20px;
+    margin-top: 10px;
+}
+
+.table table {
+    border-spacing: 20px;
+}
+
+/* our facility ends */
+
+/* Frequently Asked Questions */
+
+.FAQ h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+.FAQs ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 1000px;
+    border: 2px solid black
+    background-color: red;
+    
+}
+
+.FAQs li a {
+    display: block;
+    text-align: left;
+    hanging-punctuation: +;
+
+}
+
+.FAQs li {
+    list-style-type: none ;
+}
+
+.FAQs li a {
+    display: block;
+    padding: 10px 20px;
+    font-weight: bolder;
+    border: 1px solid white ;
+    border-radius: 20px;
+    height: 40px;
+    width: 1300px;
+    margin: 5px;
+    background-color: rgba(218, 215, 215, 0.196);;
+}
+
+.FAQs li {
+    text-align: center;
+    /* border-bottom: 1px solid #555; */
+}
+
+
+.FAQs li a:hover {
+    background-color: gray;
+    color: black;
+}
+
+/* li a.active {
+    background-color: orange;
+    color: white;
+}     */
+
+
+/* footer */
+
+footer {
+    height: 280px;
+    background-color: rgb(2, 2, 51);
+    color: white;
+}
+
+.Information {
+    display: flex;
+    margin-left: 50PX;
+}
+
+.Information div {
+    font-size: 18px;
+    margin-right: 70px;
+}
+
+#conta {
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+#cont a {
+    margin: 10px;
+}
